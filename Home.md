@@ -25,7 +25,7 @@ For those of you that would like to contribute.<br />
 
 ***
 
-See https://github.com/balderdashy/sails/wiki/_pages for more pages.
+See http://sailsjs.org/#documentation for a deeper dive.
 
 <!--
 # Getting Started With Sails
