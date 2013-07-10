@@ -1,7 +1,7 @@
-Sails.js v0.9 Docs
+Sails.js v0.9.x Docs
 ==========
 
-This is the most recent version of Sails, v0.9.0.
+These are the docs for the most recent version of Sails, v0.9.x.
 
 
 
