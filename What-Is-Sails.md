@@ -1,7 +1,7 @@
 # What is Sails?
 Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to resemble the MVC architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app development.  It's especially good for building APIs, single page apps/sites, and realtime features like chat.
 
-# The MVC Architecture
+## The MVC Architecture
 Sails is a Model, View, Controller architecture for Node.js, usually just called MVC. You can <a href="http://guides.rubyonrails.org/getting_started.html#the-mvc-architecture">learn more about MVC here</a>, but basically it's the really awesome, industry-standard way of doing things for modern web apps.
 
 Sails does a few things other MVC frameworks like Rails and Grails can't do:
